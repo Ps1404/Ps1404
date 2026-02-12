@@ -1,68 +1,78 @@
 <div align="center">
+<img src="https://github.com/user-attachments/assets/1af8b5bb-fa00-44c1-b5aa-c75e988437e4" align="center" style="width: 100%"/>
+</div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Paritosh+Sengar;Backend+%26+Web3+Developer;Lucknow%2C+India" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHello%2C+World!%2F%3E;%3C%F0%9F%91%8BAyubowan%2C+World!%2F%3E;%3C%F0%9F%91%8BHola%2C+World!%2F%3E;%3C%F0%9F%91%8BN%C7%90+h%C7%8Eo%2C+World!%2F%3E;%3C%F0%9F%91%8BCiao%2C+World!%2F%3E;%3C%F0%9F%91%8BNamasthe%2C+World!%2F%3E" alt="Typing SVG" /></a>
+
 
   <p>
-    <strong>Building scalable, secure, and performant systems — Node.js backend, real-time apps, Web3/NFTs, and full-stack when needed.</strong>
-  </p>
-
-  <p>
-    <a href="mailto:paritosh4sengar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-paritosh4sengar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/Ps1404">
-      <img src="https://img.shields.io/badge/GitHub-Ps1404-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    <strong>Building scalable, secure, and performant systems — backend, real-time apps, Web3/NFTs, and full-stack when needed.</strong>
   </p>
 
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🔭 Currently building backend-heavy, real-time, and Web3 projects  
-- 🌱 Deep into Node.js, Express, Socket.io, MongoDB, Solidity & Ethereum  
-- 💻 Passionate about clean architecture, performance optimization, caching (Redis), validation, and scalable APIs  
-- 🎯 2023–2024: Shipped production NFT systems, real-time chat apps, URL shorteners, and more  
-- 📍 Based in Lucknow, Uttar Pradesh, India  
-- ⚡ Fun fact: I hate frontend styling but still ship clean UIs with Tailwind + daisyUI 😅
+```javascript
+const satyam = {
+  pronouns: "He/Him",
+  location: "India 🇮🇳",
+  currentFocus: "Full Stack Development ,DSA & System Design",
+  funFact: "I debug with console.log() and I'm not ashamed! 😄",
+  askMeAbout: ["JavaScript", "BlockChain", "Web3","Node.js", "DSA", "Ethereum"],
+  technologies: {
+    backEnd: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
+    frontEnd: ["React", "Web3.js", "TypeScript", "Ether.js"],
+    languages: ["JavaScript", "TypeScript", "C++", "C"],
+    tools: ["Git", "Docker", "Linux", "VS Code", "Postman"],
+    databases: ["MongoDB", "PostgreSQL", "Redis"]
+  },
+  currentlyLearning: ["System Design", "DevOps", "Microservices"]
+};
+```
 
-## 🔥 Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,mongodb,postgres,mysql,redis,typescript,javascript,solidity,web3js,ethersjs,git,docker,aws" alt="Tech Stack Icons" />
-</p>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-## 🚀 Highlight Projects
 
-| Project | Description | Tech | Links |
-|-------|-------------|------|-------|
-| **CHATlify** | Real-time private chat app with Socket.io, JWT auth, typing indicators, read receipts, file sharing, low-latency delivery (1.2s avg) | Node.js, Express, Socket.io, React, MongoDB, Tailwind, Zustand | [GitHub](https://github.com/Ps1404/CHATlifyy) • [Live](https://chatlifyy.onrender.com) |
-| **NFT Coupon System** | ERC-1155 NFT-based coupon tracking for paper industry (30% cost reduction), MetaMask integration, gas-optimized contracts, 100% audit compliance | Solidity, Node.js, React, Web3.js, MetaMask, MythX/OpenZeppelin | (Professional work – details in resume) |
-| **URL Shortener (Over-Engineered)** | Performative URL shortener with Redis caching, rate limiting, analytics, load-balancing ready, 200ms redirects | Node.js, Express, MongoDB, Redis, Docker | [GitHub](https://github.com/Ps1404/BackendP42213) |
-| **EthereumWave** | Web3 "Wave" dApp – connect MetaMask, send on-chain greetings | Solidity, Hardhat, React, Ethers.js, MetaMask | [GitHub](https://github.com/Ps1404/EthereumWave) |
-| **NftBuildspace** | Programmatic NFT minting collection dApp | Solidity, Hardhat, React, Web3.js | [GitHub](https://github.com/Ps1404/NftBuildspace) |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-More projects & full code → check my [GitHub repos](https://github.com/Ps1404?tab=repositories)
 
-## 📬 Let's Connect
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:paritosh4sengar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-paritosh4sengar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Ps1404">
-    <img src="https://img.shields.io/badge/GitHub-Ps1404-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-## 📄 Resume
-
-<a href="https://drive.google.com/file/d/1r19peBKIWnbZ2Qk7AXKUQKp44mrGGjFU/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20Resume-View%20PDF-brightgreen?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-</a>
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ps1404)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://portfolio-nine-umber-24.vercel.app/)
+  [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paarito__shhhhhhhhhhhhh/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+  
+  
+</div>
 
 ---
 
-Thanks for stopping by! If you like clean, scalable backend systems or Web3 experiments — let's chat. 💬
+---
 
-Made with ❤️ in India
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+</div>
+
+---
+**Thanks for visiting my profile! Have a great day! 🌟**
