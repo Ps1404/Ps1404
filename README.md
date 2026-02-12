@@ -14,7 +14,7 @@
 ##  About Me
 
 ```javascript
-const satyam = {
+const vapid = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
   currentFocus: "Full Stack Development ,DSA & System Design",
